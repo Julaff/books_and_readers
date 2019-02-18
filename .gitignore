@@ -1,0 +1,8 @@
+*.pyc
+.idea
+books_and_readers.egg-info
+venv
+dist
+build
+pyvenv.cfg
+.directory

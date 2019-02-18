@@ -1,0 +1,2 @@
+include *.md
+recursive-include books_and_readers *.md *.sql
